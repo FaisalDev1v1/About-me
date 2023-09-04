@@ -1,7 +1,7 @@
 # About-me
 
 <h1 align="center">Hi 👋, I'm Faisal</h1>
-<h3 align="center">a Software Developer from KSA</h3>
+<h3 align="center">a Software Developer from KSA 🇸🇦 </h3>
 
 - 📫 How to reach me **FaisaliDev1v1@gmail.com**
 
